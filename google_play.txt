@@ -1,0 +1,161 @@
+fetching: https://play.google.com/store
+parsing: https://play.google.com/store
+contentType: text/html
+signature: 803caead847c2cd739eb29b1d1d6e525
+---------
+Url
+---------------
+
+https://play.google.com/store
+---------
+ParseData
+---------
+
+Version: 5
+Status: success(1,0)
+Title: Google Play
+Outlinks: 137
+  outlink: toUrl: https://play.google.com/store/opensearch.xml?hl=en_US anchor: 
+  outlink: toUrl: https://www.gstatic.com/_/play/_/ss/k=play.ss.-fr3wozbnh7fr.L.X.O/m=l/d=0/rs=AGlW0saJ-pUK5jXHIS3hI3rscudc392E2Q anchor: 
+  outlink: toUrl: https://ssl.gstatic.com/android/market_images/web/favicon.ico anchor: 
+  outlink: toUrl: https://play.google.com/store anchor: 
+  outlink: toUrl: https://play.google.com/store anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=af anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=in anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=ms anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=ca anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=cs anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=da anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=de anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=et anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=en_GB anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=en anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=es anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=es_419 anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=fil anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=fr_CA anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=fr anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=hr anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=zu anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=it anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=sw anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=lv anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=lt anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=hu anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=nl anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=no anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=pl anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=pt_BR anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=pt_PT anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=ro anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=sk anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=sl anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=fi anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=sv anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=vi anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=tr anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=el anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=be anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=bg anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=ru anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=sr anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=uk anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=am anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=hi anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=th anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=ko anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=zh_HK anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=ja anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=zh_CN anchor: 
+  outlink: toUrl: https://play.google.com/store?hl=zh_TW anchor: 
+  outlink: toUrl: https://www.google.com/webhp?tab=8w anchor: Search
+  outlink: toUrl: http://www.google.com/imghp?hl=en&tab=8i anchor: Images
+  outlink: toUrl: https://maps.google.com/maps?hl=en&tab=8l anchor: Maps
+  outlink: toUrl: https://www.youtube.com/?tab=81 anchor: YouTube
+  outlink: toUrl: https://news.google.com/nwshp?hl=en&tab=8n anchor: News
+  outlink: toUrl: https://mail.google.com/mail/?tab=8m anchor: Gmail
+  outlink: toUrl: https://drive.google.com/?tab=8o anchor: Drive
+  outlink: toUrl: http://www.google.com/intl/en/options/ anchor: More »
+  outlink: toUrl: https://play.google.com/store/apps anchor: Apps
+  outlink: toUrl: https://play.google.com/apps anchor: My apps
+  outlink: toUrl: https://play.google.com/store/apps anchor: Shop
+  outlink: toUrl: https://play.google.com/store/apps/category/GAME anchor: Games
+  outlink: toUrl: https://play.google.com/store/apps/category/FAMILY anchor: Family
+  outlink: toUrl: https://support.google.com/googleplay?p=pff_parentguide anchor: Parent Guide
+  outlink: toUrl: https://play.google.com/store/apps/collection/editors_choice anchor: Editors' Choice
+  outlink: toUrl: https://play.google.com/store/movies anchor: Movies & TV
+  outlink: toUrl: https://play.google.com/movies anchor: My movies & TV
+  outlink: toUrl: https://play.google.com/store/movies anchor: Shop
+  outlink: toUrl: https://play.google.com/store/movies/category/MOVIE anchor: Movies
+  outlink: toUrl: https://play.google.com/store/movies/category/TV anchor: TV
+  outlink: toUrl: https://play.google.com/store/movies/category/FAMILY anchor: Family
+  outlink: toUrl: https://support.google.com/googleplay?p=pff_parentguide anchor: Parent Guide
+  outlink: toUrl: https://play.google.com/store/movies/collection/promotion_collections_movie_studios anchor: Studios
+  outlink: toUrl: https://play.google.com/store/movies/collection/promotion_collections_tv_networks anchor: Networks
+  outlink: toUrl: https://play.google.com/store/music anchor: Music
+  outlink: toUrl: https://play.google.com/music?authuser anchor: My music
+  outlink: toUrl: https://play.google.com/store/music anchor: Shop
+  outlink: toUrl: https://play.google.com/store/books anchor: Books
+  outlink: toUrl: https://play.google.com/books anchor: My books
+  outlink: toUrl: https://play.google.com/store/books anchor: Shop
+  outlink: toUrl: https://play.google.com/store/books/collection/promotion_1000568_txb_product anchor: Textbooks
+  outlink: toUrl: https://play.google.com/store/books/category/coll_1689 anchor: Children's Books
+  outlink: toUrl: https://support.google.com/googleplay?p=pff_parentguide anchor: Parent Guide
+  outlink: toUrl: https://play.google.com/store/newsstand anchor: Newsstand
+  outlink: toUrl: https://play.google.com/newsstand anchor: My newsstand
+  outlink: toUrl: https://play.google.com/store/newsstand anchor: Shop
+  outlink: toUrl: https://play.google.com/store/devices anchor: Devices
+  outlink: toUrl: https://play.google.com/store/devices anchor: Shop
+  outlink: toUrl: https://play.google.com/store anchor: Store
+  outlink: toUrl: https://play.google.com/store/myplayactivity anchor: My Play activity
+  outlink: toUrl: https://play.google.com/wishlist anchor: My wishlist
+  outlink: toUrl: https://play.google.com/intl/en-US_us/about/giftcards anchor: Buy gift card
+  outlink: toUrl: https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js anchor: 
+  outlink: toUrl: https://www.gstatic.com/_/play/_/js/k=play.js.en_US.M50SQ2Q-qvs.O/m=b,i/rt=j/d=1/rs=AGlW0sbGl0xnd3F8oGel1bESM0rY4BKGew anchor: 
+  outlink: toUrl: https://play.google.com/store/account anchor: My orders
+  outlink: toUrl: https://play.google.com/settings anchor: Settings
+  outlink: toUrl: https://www.google.com/android/devicemanager?hl=en_US anchor: Android Device Manager
+  outlink: toUrl: https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games anchor: New + Updated Games
+  outlink: toUrl: https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games anchor: See more
+  outlink: toUrl: https://lh3.googleusercontent.com/JxYMF5gSoIoYzX9GltTQTxd6SOp9izWXZB28J-4s4NRWSOnh3SWuWZ1XVdBz247jmg=w170 anchor: Racing Rivals
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.ciegames.RacingRivals anchor: Pre-ordered
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.ciegames.RacingRivals anchor: Racing Rivals
+  outlink: toUrl: https://play.google.com/store/apps/dev?id=8633921029894576093 anchor: Glu
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.ciegames.RacingRivals anchor: 
+  outlink: toUrl: https://lh6.ggpht.com/miB8j7MiwlIvHMPIA-mHtaxHu9EXonacHA_ZUGiowHJqmydTk6h_GUYIzM0q_NEwEA=w170 anchor: Monster Strike
+  outlink: toUrl: https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrikeUS anchor: Pre-ordered
+  outlink: toUrl: https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrikeUS anchor: Monster Strike
+  outlink: toUrl: https://play.google.com/store/apps/developer?id=mixi,+Inc. anchor: mixi, Inc.
+  outlink: toUrl: https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrikeUS anchor: 
+  outlink: toUrl: https://lh3.googleusercontent.com/EWIDPZ9G6Oim1LDLlUNrcDYwA-xFxb9_T_v_zjd-ondnVQqtzrZuzVJ8H7Re63SCop4=w170 anchor: Running Circles
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.boombit.RunningCircles anchor: Pre-ordered
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.boombit.RunningCircles anchor: Running Circles
+  outlink: toUrl: https://play.google.com/store/apps/dev?id=5496592682158177981 anchor: BoomBit Games
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.boombit.RunningCircles anchor: 
+  outlink: toUrl: https://lh3.googleusercontent.com/tlcwPZIMuPZopJm3i3ifBX0oUJ_wIbvlqKtyjHpCAaELs86fDWBtpb5TBDatgWFWD0Rf=w170 anchor: Siegefall
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM anchor: Pre-ordered
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM anchor: Siegefall
+  outlink: toUrl: https://play.google.com/store/apps/developer?id=Gameloft anchor: Gameloft
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM anchor: 
+  outlink: toUrl: https://lh3.googleusercontent.com/MaMVDyIVpwpftphH59E_4lSPeZg8BwFkBku-NIAZgcS89aP8g2DnhZq4WLMPrAQV1HI=w170 anchor: Geometry Wars 3: Dimensions
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.activision.gw3.dimensions anchor: Pre-ordered
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.activision.gw3.dimensions anchor: Geometry Wars 3: Dimensions
+  outlink: toUrl: https://play.google.com/store/apps/developer?id=Activision+Publishing,+Inc. anchor: Activision Publishing, Inc.
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.activision.gw3.dimensions anchor: 
+  outlink: toUrl: https://lh3.googleusercontent.com/eMga-jTfHJ934OOQWtz797Wixjat9R5MHzOCjr9nqFwjrkbBEpNkjFle5du2FGNnC-0=w170 anchor: Monument Valley
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley anchor: Pre-ordered
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley anchor: Monument Valley
+  outlink: toUrl: https://play.google.com/store/apps/developer?id=ustwo anchor: ustwo
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley anchor: 
+  outlink: toUrl: https://lh3.googleusercontent.com/jTQzcR9ap_kWoaA6ecby7aaAdH-9k7-5RafXJOHHrCsCWMTtG_c8CanzrcsvqbWh2Cw=w170 anchor: Retimo Adventure
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.actoz.retimoadv anchor: Pre-ordered
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.actoz.retimoadv anchor: Retimo Adventure
+  outlink: toUrl: https://play.google.com/store/apps/developer?id=Actoz+Games anchor: Actoz Games
+  outlink: toUrl: https://play.google.com/store/apps/details?id=com.actoz.retimoadv anchor: 
+Content Metadata: Server=GSE X-Content-Type-Options=nosniff Pragma=no-cache P3P=CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info." Date=Tue, 30 Jun 2015 15:05:24 GMT nutch.crawl.score=0.0 Alternate-Protocol=443:quic,p=1 X-Frame-Options=SAMEORIGIN Accept-Ranges=none Cache-Control=no-cache, no-store, max-age=0, must-revalidate Set-Cookie=NID=68=Zr4dQ7eu-F04ZHCyezXSg4dXNT7qGtPioevHT04FX48MsE2mv-s2GGzbEaYaZOQq8UendeLmjHjUqwY2Op3OHm2keFW7D4bb6UcqcLnM5vSiLVX6ssOkGKspvHJ9cRDv;Domain=.google.com;Path=/;Expires=Wed, 30-Dec-2015 15:05:24 GMT;HttpOnly Vary=Accept-Encoding Expires=Fri, 01 Jan 1990 00:00:00 GMT X-XSS-Protection=1; mode=block Content-Type=text/html; charset=utf-8 
+Parse Metadata: CharEncodingForConversion=utf-8 OriginalCharEncoding=utf-8 
+---------
+ParseText
+---------
+
+Google Play Search Images Maps Play YouTube News Gmail Drive More » Apps My apps Shop Games Family Parent Guide Editors' Choice Movies & TV My movies & TV Shop Movies TV Family Parent Guide Studios Networks Music My music Shop Books My books Shop Textbooks Children's Books Parent Guide Newsstand My newsstand Shop Devices Shop Store My Play activity My wishlist Redeem Buy gift card Buy Google Play credit My orders Settings Android Device Manager New + Updated Games See more Pre-ordered Racing Rivals Glu 1 Free LIVE OPPONENTS. REAL COMPETITION. True real-time racing at your fingertips. Racing Rivals lets you challenge or be challenged by live opponents in game lobbies with feature race replays and live chat. HIGH STAKES BETTING Back your bets with skill unless you're prepared to lose cash - or your car! The stakes are high and the risk is real. Can you handle it? WEEKLY EVENTS! Does your team have what it takes to dominate Turf Wars? Race in weekly competitions to control cities, earn gems, and bonuses for your team! Exclusive Prizes means cars no one else can buy, wrapped in livery no one else has seen. OFFICIALLY LICENSED CARS Racing Rivals presents a huge collection of licensed cars ranging from tunes and exotics to classic American muscle. Featured brands include McLaren, Subaru, Dodge, Mitsubishi, Ford, RWB, Scion, BMW, Acura and SRT with more on the way! TUNE, UPGRADE & CUSTOMIZE? Find the optimal tune for your car with hundreds performance parts in thousands of combinations - everything from air filters to crankshafts will impact your car's performance. Up your game by adding NOS, a supercharger or turbo, custom rims from the biggest players like Volk Racing, Pacer, and SSR, plus real world tires from Nitto! High-end, immersive tablet gameplay! IMPORTANT: Racing Rivals requires an internet connection to play, Android 2.3.3 or higher and 512MB of ram (Android 4.x, 1 GB of ram recommended) Find us on Facebook: http://bit.ly/RacingRivalsFans? Find us on Twitter: http://bit.ly/RacingRivalsTweets Questions or Suggestions? Visit our forums: http://bit.ly/RacingRivalsForums Terms of Service: http://www.glu.com/terms Privacy Policy: http://www.glu.com/privacy 1 Free Pre-ordered Monster Strike mixi, Inc. 1 Free Join now during the Head Start campaign and get a starter kit to speed up your progress! - Slingshot monsters and watch as they bounce around like pinballs, destroying enemies in their wake. Play with up to three other friends in this co-op action RPG. Become a master and collect over 1,000 unique and powerful monsters — staking your claim as the best Striker around! Monster Strike is completely free to download and play, though some in-game items can be bought. Get many of the strongest monsters by completing quests. You can disable payments by turning off in-app purchases through your device's settings. FEATURES - Play with up to three other friends for four player co-op madness - Fling monsters and deal epic damage - Bump into other monsters for major combos - Turn the tide with unique strike shots - Clear quests full of obstacles and enemies - Collect and raise an ever-growing roster of monsters - Unlock and set Titles to show your prowess - Keep track of your play stats SUPPORT Having problems, Striker? Visit http://us.monster-strike.com/support/?from=web and send an inquiry to our support team. SOCIAL MEDIA Join in the conversation on Facebook at https://www.facebook.com/monsterstrike.us. RECOMMENDED DEVICES We recommend devices with Android 2.3.3 or later (with the exception of certain devices.) We cannot offer support or compensation related to use on non-recommended devices. 1 Free Pre-ordered Running Circles BoomBit Games 1 Free Play Running Circles! This game will have you Spinning around Dazed & Confused, hungry for one more go! This simple one touch Multiplayer Arcade game is totally Addictive and impossible to put down. How far can you go? Your goal is to move from Circle to Circle taping the screen at just the right time. You can move both inside and outside the Circles but don’t waste a second… Danger lurks all around you. Great timing and lightning fast reflexes is all it takes to go as far as you can. Collect gold gems to Unlock tons of cool Characters that will help you on your journey. Do you think you’re fast enough? ??? MULTIPLAYER ??? Play With Your Friends in endless Turn Base Multiplayer mode. Challenge them in direct online battles to see who has the fastest reaction time. Running circles will keep you circling and spinning for more. Features: ? From the creators of Bird Climb & Spider Square ? Free To Play ? Simple 1 Touch Controls ? Online Multiplayer ? Play With Friends ? 2 Difficulty Modes – Easy & Normal ? Beautiful Minimal Art Style ? Leaderboards and Achievements ? Cloud Save ? Android TV Support (coming soon) ? Game Pad Support (coming soon) -------------------------------------------------------- Follow BoomBit on Twitter: http://www.twitter.com/boombitgames Follow BoomBit on Facebook: http://www.facebook.com/boombitgames Follow BoomBit on YouTube: http://www.youtube.com/boombitgames Find out more about BoomBit: http://www.boombitgames.com 1 Free Pre-ordered Siegefall Gameloft 1 Free Smash the castle gates and leave nothing but rubble behind in the game that makes you builder, strategist and destroyer, all in one! Journey to an epic realm where great battles and wars are fought over kingdoms and crowns. Challenge millions of players in fast, tactical action as you take direct control of your battle forces to break through their castle defenses using raw might and your mastery of magic. BESIEGE YOUR ENEMIES ? Amass an army of specialized troops including sneaky rogues, horrifying trolls, and heavy-fisted knights. ? Deploy your army and take direct control of your Hero in battle to exploit enemy weaknesses. ? Master Magical Cards to enhance your strategy: Launch destructive boulders of fire, freeze enemies and conjure the fire of the Dragon! Dozens of different cards to win for free and enhance the action. EXPAND YOUR KINGDOM WITH STRATEGY ? War is never free! Build mines, sawmills and farms within your castle to keep your kingdom’s war effort running. ? Defend your kingdom with strategy! Build defense towers, explosives, traps, barricades and walls to ward off greedy invaders looking to lay siege to your castle. ? Build and upgrade your fort through 4 different medieval ages -- from wood and iron to gold for a diverse game experience! ? Battle with players worldwide and lay siege to their castle for resources in all-out action. And then keep your castle free from their revenge! IT’S ALL ABOUT PERSONALITY ? Epic Heroes: Unlock rival leaders and their abilities as you progress through the solo campaign and grow your kingdom. Always choose the right hero for the best strategy! ? Amazing graphics with stylized art that makes the action epic to watch, while making your hero, army and buildings easy to identify. Enjoy regular game updates that'll keep the war fire flowing! Perfect for fans of fun and free action games, strategy games, war games, castle-building games and fantasy games. Think you're the master of strategy and war? Get the game now for free! _____________________________________________ Visit our official site at http://www.gameloft.com Follow us on Twitter at http://glft.co/GameloftonTwitter or like us on Facebook at http://facebook.com/Gameloft to get more info about all our upcoming titles. Check out our videos and game trailers on http://www.youtube.com/Gameloft Discover our blog at http://glft.co/Gameloft_Official_Blog for the inside scoop on everything Gameloft. Privacy Policy: http://www.gameloft.com/privacy-notice/ Terms of Use: http://www.gameloft.com/conditions/ End-User License Agreement: http://www.gameloft.com/eula/?lang=en _____________________________________________ This app allows you to purchase virtual items within the app and may contain third-party advertisements that may redirect you to a third-party site. 1 Free Pre-ordered Geometry Wars 3: Dimensions Activision Publishing, Inc. 1 $4.99 Enjoy the next chapter in the award-winning Geometry Wars franchise and enjoy stunning, console-quality graphics as you battle through waves of enemies in this frenetic arcade shooter! • 50 Adventure levels with a wide variety of 3D grid shapes, game modes, and boss battles • 5 Classic Arcade levels inspired by franchise heritage • Over 10 battle modes including Pacifism, King and Claustrophobia • 5 unique companion drones such as Attack, Collector, Ram and Snipe • 5 devastating super abilities including Homing, Black Hole and Turret • Compete with friends and other players on global leaderboards for every level in the game  • Dual and single-stick touch control configurations • Bluetooth controller support All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision's privacy policy and terms of us, as may be updated by Activision from time to time. Please visit http://www.activision.com/privacy/en/privacy.html to view Activision's privacy policy and https://www.activision.com/legal/terms-of-use to view Activision's terms of use. 1 $4.99 Pre-ordered Monument Valley ustwo 1 $3.99 In Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world. Monument Valley is a surreal exploration through fantastical architecture and impossible geometry. Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People. Ida's Dream now available. Forgotten Shores: Eight new chapters of adventure and illusion available now as a separate purchase. ======= "One of the very finest hours, and the value of such a thing is incalculable" - Kotaku "Brilliant design... stayed with me like a dream I didn't want to forget... 9/10" - Polygon "Monument Valley stuns with its serenity... each screen is a work of art" - Huffington Post "Almost impossibly gorgeous... a feast for your senses... 5/5" - Touch Arcade “Monument Valley is the most elegant game I have ever played” - Tim Schafer ======= BEAUTIFUL Inspired by minimalist 3D design, optical illusions and palaces and temples from around the world, every monument is a unique, hand-crafted world to explore. EASY TO USE Twist and drag to reshape the world and help Ida to explore. Designed to be easy for everyone to pick up, enjoy and complete. SOUND Audio reacts to your manipulation of the world to provide a surreal and beautiful soundscape. Best experienced with headphones. CLOUD SAVE Synchronize your game across all your devices. TABLET SUPPORT Monument Valley is optimised for both tablets and phones. 1 $3.99 Pre-ordered Retimo Adventure Actoz Games 1 Free Once you try Retimo Adventure, you'll never go back. This cuteness explosion will change your standard of adorable. There's no time to waste - play the cutest RPG ever right now!! 1. Get your hands on these adorable anime characters for a cuteness overload!! - Fall in love with unique characters that come to life with vibrant animation. 2. The Rogue-like dungeon exploration system never gets boring! - The game gets more and more exciting as you enter diverse new stages. 3. Use the skill transfer system to say, "My hero's better than yours!" - Craft your own hero by transferring skills! 4. Develop new strategies with attributes! Every hero counts!! - Defeat tough enemies by combining opposing attributes! Contact Us: ozsupport@actoz.com 1
