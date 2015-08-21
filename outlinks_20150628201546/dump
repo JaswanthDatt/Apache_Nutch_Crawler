@@ -1,0 +1,654 @@
+
+Recno:: 0
+URL:: http://www.google.com/intl/en/options/
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 1
+URL:: https://play.google.com/apps
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 2
+URL:: https://play.google.com/books
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 3
+URL:: https://play.google.com/intl/en-US_us/about/giftcards
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 4
+URL:: https://play.google.com/movies
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 5
+URL:: https://play.google.com/newsstand
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 6
+URL:: https://play.google.com/settings
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 7
+URL:: https://play.google.com/store
+
+CrawlDatum::
+Version: 7
+Status: 65 (signature)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 0 seconds (0 days)
+Score: 0.0
+Signature: ef8033d310aec399e3444a7aa99de12e
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 33 (fetch_success)
+Fetch time: Sun Jun 28 20:15:55 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 1.0
+Signature: null
+Metadata: 
+ 	_ngt_=1435536943962
+	_pst_=success(1), lastModified=0
+	_rs_=1342
+	Content-Type=text/html
+
+Content::
+Version: -1
+url: https://play.google.com/store
+base: https://play.google.com/store
+contentType: text/html
+metadata: Server=GSE X-Content-Type-Options=nosniff Pragma=no-cache P3P=CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info." Date=Mon, 29 Jun 2015 00:15:52 GMT nutch.crawl.score=1.0 Alternate-Protocol=443:quic,p=1 X-Frame-Options=SAMEORIGIN Accept-Ranges=none nutch.segment.name=20150628201546 Cache-Control=no-cache, no-store, max-age=0, must-revalidate Set-Cookie=NID=68=N4irmpZUZeKtlTBXDCySI4Atyu1DLjuRHFEODtycipNEKYGIyOF4eQO42R4WnLIcC4AzqdWGL2TIpGJ8YQgETh8NRyyMdcTwK6kTSD17MUU5zI5KgT6ZQ_b-pCdUDjmf;Domain=.google.com;Path=/;Expires=Tue, 29-Dec-2015 00:15:52 GMT;HttpOnly Vary=Accept-Encoding Expires=Fri, 01 Jan 1990 00:00:00 GMT X-XSS-Protection=1; mode=block _fst_=33 Content-Type=text/html; charset=utf-8 
+Content:
+<!doctype html>
+<html xmlns:og="http://ogp.me/ns#" lang="en_US"><head><script>(function(){var f=this;function g(a){var d=typeof a;if("object"==d)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return d;var b=Object.prototype.toString.call(a);if("[object Window]"==b)return"object";if("[object Array]"==b||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==b||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==
+d&&"undefined"==typeof a.call)return"object";return d}var h=Date.now||function(){return+new Date};function u(a,d){var b=["LOWLIFE_wizbind"],c=d||f;b[0]in c||!c.execScript||c.execScript("var "+b[0]);for(var e;b.length&&(e=b.shift());)b.length||void 0===a?c[e]?c=c[e]:c=c[e]={}:c[e]=a};var v;a:{var B=f.navigator;if(B){var C=B.userAgent;if(C){v=C;break a}}v=""}function D(a){return-1!=v.indexOf(a)};var E={};function F(a,d){return function(b){b||(b=window.event);return d.call(a,b)}}var G="undefined"!=typeof navigator&&/Macintosh/.test(navigator.userAgent),H="undefined"!=typeof navigator&&!/Opera|WebKit/.test(navigator.userAgent)&&/Gecko/.test(navigator.product);function I(){this._mouseEventsPrevented=!0};function J(){return D("Opera")||D("OPR")}function K(){return(D("Chrome")||D("CriOS"))&&!J()&&!D("Edge")};var L=J(),M=D("Trident")||D("MSIE"),N=D("Edge"),Q=D("Gecko")&&!(-1!=v.toLowerCase().indexOf("webkit")&&!D("Edge"))&&!(D("Trident")||D("MSIE"))&&!D("Edge"),aa=-1!=v.toLowerCase().indexOf("webkit")&&!D("Edge");function ba(){var a=v;if(Q)return/rv\:([^\);]+)(\)|;)/.exec(a);if(N)return/Edge\/([\d\.]+)/.exec(a);if(M)return/\b(?:MSIE|rv)[:]([^\);]+)(\)|;)/.exec(a);if(aa)return/WebKit\/(\S+)/.exec(a)}
+(function(){if(L&&f.opera){var a=f.opera.version;return"function"==g(a)?a():a}var a="",d=ba();d&&(a=d?d[1]:"");return M&&(d=(d=f.document)?d.documentMode:void 0,d>parseFloat(a))?String(d):a})();!D("Android")||K()||D("Firefox")||J();K();function R(){this.g=[];this.c=[];this.f={};this.a=null;this.b=[]}var ca="undefined"!=typeof navigator&&/iPhone|iPad|iPod/.test(navigator.userAgent),S=String.prototype.trim?function(a){return a.trim()}:function(a){return a.replace(/^\s+/,"").replace(/\s+$/,"")},da=/\s*;\s*/;function ea(a,d){return function(b){var c;c=d;var e;"click"==c&&(G&&b.metaKey||!G&&b.ctrlKey||2==b.which||null==b.which&&4==b.button||b.shiftKey)&&(c="clickmod");var n=b.srcElement||b.target,q=T(c,b,n,"",null),k,O;for(e=n;e&&e!=this;e=e.__owner||e.parentNode){k=O=e;var P=c,l=k.__jsaction;if(!l){var r=U(k,"jsaction");if(r){l=E[r];if(!l){for(var l={},x=r.split(da),y=0,w=x?x.length:0;y<w;y++){var m=x[y];if(m){var p=m.indexOf(":"),t=-1!=p,z=t?S(m.substr(0,p)):"click",m=t?S(m.substr(p+1)):m;l[z]=m}}E[r]=
+l}r=l;l={};for(z in r){x=l;y=z;b:if(w=r[z],!(0<=w.indexOf(".")))for(m=k;m;m=m.parentNode){p=m;t=p.__jsnamespace;void 0===t&&(t=U(p,"jsnamespace"),p.__jsnamespace=t);if(p=t){w=p+"."+w;break b}if(m==this)break}x[y]=w}k.__jsaction=l}else l=fa,k.__jsaction=l}k={i:P,action:l[P]||"",event:null,j:!1};if(k.j||k.action)break}k&&(q=T(k.i,k.event||b,n,k.action||"",O,q.timeStamp));q&&"touchend"==q.eventType&&(q.event._preventMouseEvents=I);k&&k.action||(q.action="",q.actionElement=null);c=q;a.a&&(e=T(c.eventType,c.event,c.targetElement,c.action,c.actionElement,c.timeStamp),"clickonly"==e.eventType&&(e.eventType="click"),a.a(e,!0));if(c.actionElement){H&&"INPUT"==c.targetElement.tagName&&"focus"==c.eventType||(b.stopPropagation?b.stopPropagation():b.cancelBubble=!0);"A"!=c.actionElement.tagName||"click"!=c.eventType&&"clickmod"!=c.eventType||(b.preventDefault?b.preventDefault():b.returnValue=!1);if(a.a)a.a(c);else{var A;if((e=f.document)&&!e.createEvent&&e.createEventObject)try{A=e.createEventObject(b)}catch(ja){A=
+b}else A=b;c.event=A;a.b.push(c)}if("touchend"==c.event.type&&c.event._mouseEventsPrevented){b=c.event;for(var ka in b);h()}}}}function T(a,d,b,c,e,n){return{eventType:a,event:d,targetElement:b,action:c,actionElement:e,timeStamp:n||h()}}function U(a,d){var b=null;"getAttribute"in a&&(b=a.getAttribute(d));return b}var fa={};function ga(a,d){return function(b){var c=a,e=d,n=!1;"mouseenter"==c?c="mouseover":"mouseleave"==c&&(c="mouseout");if(b.addEventListener){if("focus"==c||"blur"==c||"error"==c||"load"==c)n=!0;b.addEventListener(c,e,n)}else b.attachEvent&&("focus"==c?c="focusin":"blur"==c&&(c="focusout"),e=F(b,e),b.attachEvent("on"+c,e));return{i:c,h:e,l:n}}}
+function V(a,d){if(!a.f.hasOwnProperty(d)&&"mouseenter"!=d&&"mouseleave"!=d){var b=ea(a,d),c=ga(d,b);a.f[d]=b;a.g.push(c);for(b=0;b<a.c.length;++b){var e=a.c[b];e.b.push(c.call(null,e.a))}}}R.prototype.h=function(a){return this.f[a]};var ha=window,W=new R,X=ha||window,Y=new function(a){this.a=a;this.b=[]}(X.document.documentElement),ia=Y.a;ca&&(ia.style.cursor="pointer");for(var Z=0;Z<W.g.length;++Z)Y.b.push(W.g[Z].call(null,Y.a));W.c.push(Y);V(W,"click");V(W,"focus");V(W,"focusin");V(W,"blur");V(W,"focusout");V(W,"keydown");V(W,"keypress");V(W,"mouseover");V(W,"mouseout");V(W,"mouseenter");V(W,"mouseleave");V(W,"change");V(W,"input");V(W,"keyup");V(W,"mousedown");V(W,"mouseup");V(W,"touchcancel");(function(a,d){u({trigger:function(b){var c=a.h(b.type);c||(V(a,b.type),c=a.h(b.type));c.call((b.target||b.srcElement).ownerDocument.documentElement,b)},bind:function(b){a.a=b;a.b&&(0<a.b.length&&b(a.b),a.b=null)}},d)})(W,X);})();</script><meta content="IE=10" http-equiv="X-UA-Compatible"><link href="/store/opensearch.xml?hl=en_US" rel="search" title="Google Play" type="application/opensearchdescription+xml"><meta content="PJKdyVFC5jlu_l8Wo_hirJkhs1cmitmn44fgpOc3zFc" name="google-site-verification"><meta content="A6H2WZG5rRIUFFopIQcyPeabS5ffxhFlhTiyhzWGPRA" name="google-site-verification"><style type="text/css">#gbar,#guser{font-size:13px;padding-top:0px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}</style><style type="text/css">@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url(//fonts.gstatic.com/s/roboto/v15/Jzo62I39jc0gQRrbndN6nfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(//fonts.gstatic.com/s/roboto/v15/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Regular'), local('Roboto-Regular'), url(//fonts.gstatic.com/s/roboto/v15/zN7GBFwfMP4uA6AR0HCoLQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(//fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(//fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(//fonts.gstatic.com/s/roboto/v15/12mE4jfMSBTmg-81EiS-YS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(//fonts.gstatic.com/s/roboto/v15/7m8l7TlFO-S3VkhHuR0at50EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Roboto Italic'), local('Roboto-Italic'), url(//fonts.gstatic.com/s/roboto/v15/W4wDsBUluyw0tK3tykhXEfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Slab Thin'), local('RobotoSlab-Thin'), url(//fonts.gstatic.com/s/robotoslab/v6/MEz38VLIFL-t46JUtkIEgH4UHu-c0cTZKOwO_f6u1Os.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(//fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJbfB31yxOzP-czbf6AAKCVo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(//fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(//fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJZ_TkvowlIOtbR7ePgFOpF4.ttf) format('truetype');
+}
+</style><link type='text/css' rel='stylesheet' href='//www.gstatic.com/_/play/_/ss/k=play.ss.15dx5q5andouv.L.X.O/m=l/d=0/rs=AGlW0sYwS5Gm0KCJUQf6HVYjEcdR-X2XlA'/><link href="//ssl.gstatic.com/android/market_images/web/favicon.ico" rel="shortcut icon"><script type="text/javascript"></script><title id="main-title">Google Play</title><meta content="Shop Google Play on the web. Purchase and enjoy instantly on your Android phone or tablet without the hassle of syncing." name="Description"><link href="https://play.google.com/store" rel="canonical"><link href="https://play.google.com/store" hreflang="x-default" rel="alternate"><link href="https://play.google.com/store?hl=af" hreflang="af" rel="alternate"><link href="https://play.google.com/store?hl=in" hreflang="in" rel="alternate"><link href="https://play.google.com/store?hl=ms" hreflang="ms" rel="alternate"><link href="https://play.google.com/store?hl=ca" hreflang="ca" rel="alternate"><link href="https://play.google.com/store?hl=cs" hreflang="cs" rel="alternate"><link href="https://play.google.com/store?hl=da" hreflang="da" rel="alternate"><link href="https://play.google.com/store?hl=de" hreflang="de" rel="alternate"><link href="https://play.google.com/store?hl=et" hreflang="et" rel="alternate"><link href="https://play.google.com/store?hl=en_GB" hreflang="en_GB" rel="alternate"><link href="https://play.google.com/store?hl=en" hreflang="en" rel="alternate"><link href="https://play.google.com/store?hl=es" hreflang="es" rel="alternate"><link href="https://play.google.com/store?hl=es_419" hreflang="es_419" rel="alternate"><link href="https://play.google.com/store?hl=fil" hreflang="fil" rel="alternate"><link href="https://play.google.com/store?hl=fr_CA" hreflang="fr_CA" rel="alternate"><link href="https://play.google.com/store?hl=fr" hreflang="fr" rel="alternate"><link href="https://play.google.com/store?hl=hr" hreflang="hr" rel="alternate"><link href="https://play.google.com/store?hl=zu" hreflang="zu" rel="alternate"><link href="https://play.google.com/store?hl=it" hreflang="it" rel="alternate"><link href="https://play.google.com/store?hl=sw" hreflang="sw" rel="alternate"><link href="https://play.google.com/store?hl=lv" hreflang="lv" rel="alternate"><link href="https://play.google.com/store?hl=lt" hreflang="lt" rel="alternate"><link href="https://play.google.com/store?hl=hu" hreflang="hu" rel="alternate"><link href="https://play.google.com/store?hl=nl" hreflang="nl" rel="alternate"><link href="https://play.google.com/store?hl=no" hreflang="no" rel="alternate"><link href="https://play.google.com/store?hl=pl" hreflang="pl" rel="alternate"><link href="https://play.google.com/store?hl=pt_BR" hreflang="pt_BR" rel="alternate"><link href="https://play.google.com/store?hl=pt_PT" hreflang="pt_PT" rel="alternate"><link href="https://play.google.com/store?hl=ro" hreflang="ro" rel="alternate"><link href="https://play.google.com/store?hl=sk" hreflang="sk" rel="alternate"><link href="https://play.google.com/store?hl=sl" hreflang="sl" rel="alternate"><link href="https://play.google.com/store?hl=fi" hreflang="fi" rel="alternate"><link href="https://play.google.com/store?hl=sv" hreflang="sv" rel="alternate"><link href="https://play.google.com/store?hl=vi" hreflang="vi" rel="alternate"><link href="https://play.google.com/store?hl=tr" hreflang="tr" rel="alternate"><link href="https://play.google.com/store?hl=el" hreflang="el" rel="alternate"><link href="https://play.google.com/store?hl=be" hreflang="be" rel="alternate"><link href="https://play.google.com/store?hl=bg" hreflang="bg" rel="alternate"><link href="https://play.google.com/store?hl=ru" hreflang="ru" rel="alternate"><link href="https://play.google.com/store?hl=sr" hreflang="sr" rel="alternate"><link href="https://play.google.com/store?hl=uk" hreflang="uk" rel="alternate"><link href="https://play.google.com/store?hl=am" hreflang="am" rel="alternate"><link href="https://play.google.com/store?hl=hi" hreflang="hi" rel="alternate"><link href="https://play.google.com/store?hl=th" hreflang="th" rel="alternate"><link href="https://play.google.com/store?hl=ko" hreflang="ko" rel="alternate"><link href="https://play.google.com/store?hl=zh_HK" hreflang="zh_HK" rel="alternate"><link href="https://play.google.com/store?hl=ja" hreflang="ja" rel="alternate"><link href="https://play.google.com/store?hl=zh_CN" hreflang="zh_CN" rel="alternate"><link href="https://play.google.com/store?hl=zh_TW" hreflang="zh_TW" rel="alternate"><meta content="website" property="og:type"><meta content="Google Play" property="og:title"><meta content="https://play.google.com/store" property="og:url"></head><body class="no-focus-outline" data-page-server-cookie=""><div id=gbar><nobr><a class=gb1 href="https://www.google.com/webhp?tab=8w">Search</a> <a class=gb1 href="http://www.google.com/imghp?hl=en&tab=8i">Images</a> <a class=gb1 href="https://maps.google.com/maps?hl=en&tab=8l">Maps</a> <b class=gb1>Play</b> <a class=gb1 href="https://www.youtube.com/?tab=81">YouTube</a> <a class=gb1 href="https://news.google.com/nwshp?hl=en&tab=8n">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=8m">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=8o">Drive</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com/intl/en/options/"><u>More</u> &raquo;</a></nobr></div><div id="offscreen-renderer" style="position:fixed;top:-100000px;left:-100000px;opacity:0"></div><div class="wrapper-with-footer" id="wrapper"><div style="display:block"> <div class="nav-container hover-zone" style="visibility:hidden" data-server-cookie="CAMiGwgBEAAaFRITCg12ZXJ0aWNhbF9tZW51EBoYAA==" data-uitype="418"> <span class="show-all-hover-zone"> <span class="hover-arrow"></span> </span> <ul class="nav" role="navigation"> <li class="nav-list-item id-track-click apps" data-backend="3" data-server-cookie="CAQqBggDEAMoBA==" data-uitype="101" style="display:none"> <a class="menu-link id-no-menu-change default" href="/store/apps"> <span class="hover-target"> <span class="icon-container"> <span class="icon"></span> </span> <span class="title"> Apps </span> </span> </a> <ul class="sub-nav non-store-sub-nav"> <li class="sub-nav-option id-track-click" data-uitype="103"> <a class="library-link id-no-menu-change" href="/apps"> My apps </a> </li> <li class="sub-nav-option"> <a class="shop-link id-no-menu-change chosen" href="/store/apps"> Shop </a> </li>  <li class="sub-nav-divider"></li> <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/apps/category/GAME"> Games </a> </li>  <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/apps/category/FAMILY"> Family </a> </li> <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="https://support.google.com/googleplay?p=pff_parentguide"> Parent Guide </a> </li>  <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/apps/collection/editors_choice"> Editors' Choice </a> </li> </ul> </li> <li class="nav-list-item id-track-click movies-tv" data-backend="4" data-server-cookie="CAQqBggDEAQoBA==" data-uitype="101" style="display:none"> <a class="menu-link id-no-menu-change default" href="/store/movies"> <span class="hover-target"> <span class="icon-container"> <span class="icon"></span> </span> <span class="title"> Movies & TV </span> </span> </a> <ul class="sub-nav non-store-sub-nav"> <li class="sub-nav-option id-track-click" data-uitype="105"> <a class="library-link id-no-menu-change" href="/movies"> My movies & TV </a> </li> <li class="sub-nav-option"> <a class="shop-link id-no-menu-change chosen" href="/store/movies"> Shop </a> </li>  <li class="sub-nav-divider"></li> <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/movies/category/MOVIE"> Movies </a> </li> <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/movies/category/TV"> TV </a> </li>  <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/movies/category/FAMILY"> Family </a> </li> <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="https://support.google.com/googleplay?p=pff_parentguide"> Parent Guide </a> </li>  <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/movies/collection/promotion_collections_movie_studios"> Studios </a> </li> <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/movies/collection/promotion_collections_tv_networks"> Networks </a> </li> </ul> </li>  <li class="nav-list-item id-track-click music" data-backend="2" data-server-cookie="CAQqBggDEAIoBA==" data-uitype="101" style="display:none"> <a class="menu-link id-no-menu-change default" href="/store/music"> <span class="hover-target"> <span class="icon-container"> <span class="icon"></span> </span> <span class="title"> Music </span> </span> </a> <ul class="sub-nav non-store-sub-nav"> <li class="sub-nav-option id-track-click" data-uitype="104"> <a class="library-link id-no-menu-change id-no-nav" href="/music?authuser"> My music </a> </li> <li class="sub-nav-option"> <a class="shop-link id-no-menu-change chosen" href="/store/music"> Shop </a> </li>  </ul> </li> <li class="nav-list-item id-track-click books" data-backend="1" data-server-cookie="CAQqBggDEAEoBA==" data-uitype="101" style="display:none"> <a class="menu-link id-no-menu-change default" href="/store/books"> <span class="hover-target"> <span class="icon-container"> <span class="icon"></span> </span> <span class="title"> Books </span> </span> </a> <ul class="sub-nav non-store-sub-nav"> <li class="sub-nav-option id-track-click" data-uitype="106"> <a class="library-link id-no-menu-change id-no-nav" href="/books"> My books </a> </li> <li class="sub-nav-option"> <a class="shop-link id-no-menu-change chosen" href="/store/books"> Shop </a> </li>   <li class="sub-nav-divider"></li>   <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/books/collection/promotion_1000568_txb_product"> Textbooks </a> </li>   <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="/store/books/category/coll_1689"> Children's Books </a> </li> <li class="secondary-sub-nav-option"> <a class="sub-nav-link id-no-menu-change" href="https://support.google.com/googleplay?p=pff_parentguide"> Parent Guide </a> </li>  </ul> </li> <li class="nav-list-item id-track-click magazines" data-backend="6" data-server-cookie="CAQqBggDEAYoBA==" data-uitype="101" style="display:none"> <a class="menu-link id-no-menu-change default" href="/store/newsstand"> <span class="hover-target"> <span class="icon-container"> <span class="icon"></span> </span> <span class="title"> Newsstand </span> </span> </a> <ul class="sub-nav non-store-sub-nav"> <li class="sub-nav-option"> <a class="library-link id-no-menu-change id-track-click" data-uitype="121" href="/newsstand"> My newsstand </a> </li> <li class="sub-nav-option"> <a class="shop-link id-no-menu-change chosen" href="/store/newsstand"> Shop </a> </li>  </ul> </li> <li class="nav-list-item id-track-click devices" data-backend="5" data-server-cookie="CAQqBggDEAUoBA==" data-uitype="101" style="display:none"> <a class="menu-link id-no-menu-change default" href="/store/devices"> <span class="hover-target"> <span class="icon-container"> <span class="icon"></span> </span> <span class="title"> Devices </span> </span> </a> <ul class="sub-nav non-store-sub-nav"> <li class="sub-nav-option"> <a class="shop-link id-no-menu-change chosen" href="/store/devices"> Shop </a> </li>  </ul> </li> <li class="nav-list-item id-track-click store" data-backend="0" data-server-cookie="CAQqBggDEAAoBA==" data-uitype="101" style="display:none"> <a class="menu-link id-no-menu-change selected default" href="/store"> <span class="hover-target"> <span class="icon-container"> <span class="icon"></span> </span> <span class="title"> Store </span> </span> </a> </li>  <li class="store"> <ul class="sub-nav id-sub-nav-store"> <li class="secondary-sub-nav-option id-track-click" data-uitype="123"> <a class="sub-nav-link id-no-menu-change" href="/store/myplayactivity"> My Play activity </a> </li> <li class="secondary-sub-nav-option id-track-click" data-uitype="108"> <a class="sub-nav-link id-no-menu-change" href="/wishlist"> My wishlist </a> </li>  <li class="secondary-sub-nav-option id-cannot-set-chosen redeem-option id-track-click" data-uitype="109"> <button class="sub-nav-link id-no-menu-change id-no-nav"> Redeem </button> </li>  <li class="secondary-sub-nav-option id-cannot-set-chosen id-track-click" data-uitype="125"> <a class="sub-nav-link id-no-menu-change id-no-nav" href="https://play.google.com/intl/en-US_us/about/giftcards"> Buy gift card </a> </li> <li class="secondary-sub-nav-option id-cannot-set-chosen id-track-click" data-uitype="128"> <button class="sub-nav-link id-no-menu-change topup-link"> Buy Google Play credit </button> </li> </ul> </li>   </ul> </div> </div><div class="butterbar-container"><span id="butterbar"></span></div><div class="body-content-loading-overlay" style="display:none"><div class="body-content-loading-spinner"></div></div><script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js'></script><script src='//www.gstatic.com/_/play/_/js/k=play.js.en_US.ckHk93087pI.O/m=b,i/rt=j/d=1/rs=AGlW0sbAslaRcI7EmIrvRFlEah-33Dkmrg'></script><script>initializeAppMenu();</script><div class="id-body-content-beginning" aria-labelledby="main-title" tabindex="-1"></div><div class="action-bar-container" role="navigation" jsl="$t t-NjQXl_7dol8;$x 0;"> <div class="action-bar-inner"> <div class="action-bar" jsl="$x 1;" jsan="7.action-bar"> <div jsinstance="*0" jsl="$x 2;$t t-JC5PZYWvdyU;$x 0;" class="action-bar-aux" jsan="t-JC5PZYWvdyU,7.action-bar-aux"> <div jsinstance="0" jsl="$x 1;$t t-rwatkwvxdCk;$x 0;" class="action-bar-item" jsan="t-rwatkwvxdCk,7.action-bar-item"> <div jsl="$x 1;" style="display:none" jsan="5.display"></div> <div jsl="$x 2;" style="display:none" jsan="5.display"></div> <button jsl="$x 3;$t t-jrVj4fYkncg;$x 0;" class="action-bar-link action-bar-help play-button small id-track-click" data-uitype="112" title="Help" jsan="t-jrVj4fYkncg,7.action-bar-link,7.action-bar-help,7.play-button,7.small,7.id-track-click,0.data-uitype,0.title"> <span class="action-bar-link-title" jsl="$x 1;" jsan="7.action-bar-link-title"></span> </button> <div jsl="$x 4;" style="display:none"></div> <div jsl="$x 5;" style="display:none" class="action-bar-spacer"> </div> <div jsl="$x 6;" style="display:none"></div> </div><div jsinstance="*1" jsl="$x 1;$t t-rwatkwvxdCk;$x 0;" class="action-bar-item settings-gear-menu play-button small" jsan="t-rwatkwvxdCk,7.action-bar-item,7.settings-gear-menu,7.play-button,7.small"> <div jsl="$x 1;" style="display:none" jsan="5.display"></div> <div jsl="$x 2;" style="display:none" jsan="5.display"></div> <button jsl="$x 3;" style="display:none" jsan="5.display"></button> <div jsl="$x 4;$t t-pZpp18oHJ6M;$x 0;" class="action-bar-dropdown-container"> <div class="action-bar-dropdown"> <button class="action-bar-dropdown-top" aria-controls="action-dropdown-children-" aria-owns="action-dropdown-children-" id="action-dropdown-parent-" aria-expanded="false" aria-haspopup="true" jsl="$x 1;" jsan="7.action-bar-dropdown-top,0.aria-controls,0.aria-owns,0.id,0.aria-expanded,0.aria-haspopup"> <span class="title" jsl="$x 2;" jsan="7.title"></span> <span class="dropdown-icon"></span> </button> </div> <div class="name-edit-toggle" style="display:none"> <input class="edit-field-text" value="" maxlength="50" size="18" type="text" jsl="$x 3;"> </div> <div class="action-bar-dropdown-children-container" aria-labelledby="action-dropdown-parent-" id="action-dropdown-children-" jsl="$x 4;" style="display:none"> <div class="dropdown-submenu" jsl="$x 5;" jsan="7.dropdown-submenu"> <ul class="submenu-item-wrapper" jsl="$x 6;" jsan="7.submenu-item-wrapper"> <li jsinstance="0" jsl="$x 7;"> <ul jsl="$x 8;" style="display:none"></ul> <div jsl="$x 9;$t t-RFvLnNve14Q;$x 0;" class="leaf-submenu-link-wrapper"> <a class="leaf-submenu-link" href="/store/account" title="My orders" jsl="$x 1;" jsan="7.leaf-submenu-link,8.href,0.title">My orders</a> <button jsl="$x 2;" style="display:none" jsan="5.display"></button> </div> </li><li jsinstance="1" jsl="$x 7;"> <ul jsl="$x 8;" style="display:none"></ul> <div jsl="$x 9;$t t-RFvLnNve14Q;$x 0;" class="leaf-submenu-link-wrapper"> <a class="leaf-submenu-link" href="/settings" title="Settings" jsl="$x 1;" jsan="7.leaf-submenu-link,8.href,0.title">Settings</a> <button jsl="$x 2;" style="display:none" jsan="5.display"></button> </div> </li><li jsinstance="*2" jsl="$x 7;"> <ul jsl="$x 8;" style="display:none"></ul> <div jsl="$x 9;$t t-RFvLnNve14Q;$x 0;" class="leaf-submenu-link-wrapper"> <a class="leaf-submenu-link" href="https://www.google.com/android/devicemanager?hl=en_US" target="_blank" title="Android Device Manager" jsl="$x 1;" jsan="7.leaf-submenu-link,8.href,0.target,0.title">Android Device Manager</a> <button jsl="$x 2;" style="display:none" jsan="5.display"></button> </div> </li> </ul> </div> </div> </div> <div jsl="$x 5;" style="display:none" class="action-bar-spacer"> </div> <div jsl="$x 6;" style="display:none"></div> </div> </div> </div> </div> </div><div id="body-content" role="main"><meta content="https://www.gstatic.com/android/market_images/plus/play_stream_logo.png" itemprop="logoImageUrl"><meta content="https://play.google.com" itemprop="logoHrefUrl"><div class="outer-container"><div class="inner-container"><div class="main-content"><div class="browse-page id-deep-link-item" data-deep-link-type="5">    <div class="cluster-container cards-transition-enabled"> <div class="cluster id-track-impression normal square-cover apps" data-fetch-start="10" data-original-classes="cluster id-track-impression normal square-cover apps" data-server-cookie="CAMiMAgBGiwSKgokcHJvbW90aW9uXzMwMDA3OTFfbmV3X3JlbGVhc2VzX2dhbWVzEAcYAw==" data-short-classes="cluster id-track-impression tight square-cover apps" data-uitype="400"> <h1 class="cluster-heading">  <a class="title-link id-track-click" data-server-cookie="CAMiMAgBGiwSKgokcHJvbW90aW9uXzMwMDA3OTFfbmV3X3JlbGVhc2VzX2dhbWVzEAcYAw==" data-uitype="291" href="/store/apps/collection/promotion_3000791_new_releases_games">New + Updated Games</a>  <a class="see-more play-button small id-track-click apps id-responsive-see-more" data-server-cookie="CAMiMAgBGiwSKgokcHJvbW90aW9uXzMwMDA3OTFfbmV3X3JlbGVhc2VzX2dhbWVzEAcYAw==" data-uitype="290" href="/store/apps/collection/promotion_3000791_new_releases_games"> See more </a>         </h1>   <div class="card-list two-cards">   <div class="card no-rationale square-cover apps small" data-docid="com.ciegames.RacingRivals" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-classes="card no-rationale square-cover apps small"> <div class="card-content id-track-click id-track-impression" data-docid="com.ciegames.RacingRivals" data-server-cookie="CAIaIwohEh8KGWNvbS5jaWVnYW1lcy5SYWNpbmdSaXZhbHMQARgD" data-uitype="500">  <a class="card-click-target" data-server-cookie="CAIaIwohEh8KGWNvbS5jaWVnYW1lcy5SYWNpbmdSaXZhbHMQARgD" data-uitype="500" href="/store/apps/details?id=com.ciegames.RacingRivals" aria-hidden="true" tabindex="-1"></a> <div class="cover"> <div class="cover-image-container"> <div class="cover-outer-align"> <div class="cover-inner-align"> <img alt="Racing Rivals" class="cover-image" data-cover-large="https://lh3.googleusercontent.com/JxYMF5gSoIoYzX9GltTQTxd6SOp9izWXZB28J-4s4NRWSOnh3SWuWZ1XVdBz247jmg=w340" data-cover-small="https://lh3.googleusercontent.com/JxYMF5gSoIoYzX9GltTQTxd6SOp9izWXZB28J-4s4NRWSOnh3SWuWZ1XVdBz247jmg=w170" src="https://lh3.googleusercontent.com/JxYMF5gSoIoYzX9GltTQTxd6SOp9izWXZB28J-4s4NRWSOnh3SWuWZ1XVdBz247jmg=w170" aria-hidden="true"> </div> </div> </div> <a class="card-click-target" href="/store/apps/details?id=com.ciegames.RacingRivals" aria-hidden="true" tabindex="-1">  <span class="movies preordered-overlay-container id-preordered-overlay-container" style="display:none"> <span class="preordered-label"> Pre-ordered </span> </span> <span class="preview-overlay-container" data-docid="com.ciegames.RacingRivals">  </span>  </a>  </div> <div class="details"> <a class="card-click-target" href="/store/apps/details?id=com.ciegames.RacingRivals" aria-hidden="true" tabindex="-1"></a>  <h2> <a class="title" href="/store/apps/details?id=com.ciegames.RacingRivals" title="Racing Rivals">    Racing Rivals  <span class="paragraph-end"></span> </a> </h2>   <div class="subtitle-container">  <a class="subtitle" href="/store/apps/dev?id=8633921029894576093" title="Glu">Glu</a>   <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.ciegames.RacingRivals"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaIwohEh8KGWNvbS5jaWVnYW1lcy5SYWNpbmdSaXZhbHMQARgD" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </div>  <div class="description">  LIVE OPPONENTS. REAL COMPETITION. <br>True real-time racing at your fingertips. Racing Rivals lets you challenge or be challenged by live opponents in game lobbies with feature race replays and live chat. <p>HIGH STAKES BETTING <br>Back your bets with skill unless you&#39;re prepared to lose cash - or your car! The stakes are high and the risk is real. Can you handle it? <p>WEEKLY EVENTS! <br>Does your team have what it takes to dominate Turf Wars? Race in weekly competitions to control cities, earn gems, and bonuses for your team! Exclusive Prizes means cars no one else can buy, wrapped in livery no one else has seen.<p>OFFICIALLY LICENSED CARS <br>Racing Rivals presents a huge collection of licensed cars ranging from tunes and exotics to classic American muscle. Featured brands include McLaren, Subaru, Dodge, Mitsubishi, Ford, RWB, Scion, BMW, Acura and SRT with more on the way! <p>TUNE, UPGRADE &amp; CUSTOMIZEâ€¨ <br>Find the optimal tune for your car with hundreds performance parts in thousands of combinations - everything from air filters to crankshafts will impact your car&#39;s performance. Up your game by adding NOS, a supercharger or turbo, custom rims from the biggest players like Volk Racing, Pacer, and SSR, plus real world tires from Nitto! <p>High-end, immersive tablet gameplay!<p>IMPORTANT: Racing Rivals requires an internet connection to play, Android 2.3.3 or higher and 512MB of ram (Android 4.x, 1 GB of ram recommended)<p>Find us on Facebook: http://bit.ly/RacingRivalsFansâ€¨ <br>Find us on Twitter: http://bit.ly/RacingRivalsTweets <p>Questions or Suggestions? Visit our forums: http://bit.ly/RacingRivalsForums<p>Terms of Service: http://www.glu.com/terms<br>Privacy Policy: http://www.glu.com/privacy</p></p></p></p></p></p></p></p></p> <span class="paragraph-end"></span> <a class="card-click-target" href="/store/apps/details?id=com.ciegames.RacingRivals" aria-hidden="true" tabindex="-1"></a>  </div> </div>     <div class="reason-set">  <span class="stars-container"> <a href="/store/apps/details?id=com.ciegames.RacingRivals" tabindex="-1"> <div class="reason-set-star-rating">  <div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 3.9 stars out of five stars "> <div class="current-rating" style="width: 77.4817705154419%;"></div> </div>  </div> </a> <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.ciegames.RacingRivals"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaIwohEh8KGWNvbS5jaWVnYW1lcy5SYWNpbmdSaXZhbHMQARgD" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </span> </div> </div>   </div>  <div class="card no-rationale square-cover apps small" data-docid="jp.co.mixi.monsterstrikeUS" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-classes="card no-rationale square-cover apps small"> <div class="card-content id-track-click id-track-impression" data-docid="jp.co.mixi.monsterstrikeUS" data-server-cookie="CAIaJAoiEiAKGmpwLmNvLm1peGkubW9uc3RlcnN0cmlrZVVTEAEYAw==" data-uitype="500">  <a class="card-click-target" data-server-cookie="CAIaJAoiEiAKGmpwLmNvLm1peGkubW9uc3RlcnN0cmlrZVVTEAEYAw==" data-uitype="500" href="/store/apps/details?id=jp.co.mixi.monsterstrikeUS" aria-hidden="true" tabindex="-1"></a> <div class="cover"> <div class="cover-image-container"> <div class="cover-outer-align"> <div class="cover-inner-align"> <img alt="Monster Strike" class="cover-image" data-cover-large="https://lh6.ggpht.com/miB8j7MiwlIvHMPIA-mHtaxHu9EXonacHA_ZUGiowHJqmydTk6h_GUYIzM0q_NEwEA=w340" data-cover-small="https://lh6.ggpht.com/miB8j7MiwlIvHMPIA-mHtaxHu9EXonacHA_ZUGiowHJqmydTk6h_GUYIzM0q_NEwEA=w170" src="https://lh6.ggpht.com/miB8j7MiwlIvHMPIA-mHtaxHu9EXonacHA_ZUGiowHJqmydTk6h_GUYIzM0q_NEwEA=w170" aria-hidden="true"> </div> </div> </div> <a class="card-click-target" href="/store/apps/details?id=jp.co.mixi.monsterstrikeUS" aria-hidden="true" tabindex="-1">  <span class="movies preordered-overlay-container id-preordered-overlay-container" style="display:none"> <span class="preordered-label"> Pre-ordered </span> </span> <span class="preview-overlay-container" data-docid="jp.co.mixi.monsterstrikeUS">  </span>  </a>  </div> <div class="details"> <a class="card-click-target" href="/store/apps/details?id=jp.co.mixi.monsterstrikeUS" aria-hidden="true" tabindex="-1"></a>  <h2> <a class="title" href="/store/apps/details?id=jp.co.mixi.monsterstrikeUS" title="Monster Strike">    Monster Strike  <span class="paragraph-end"></span> </a> </h2>   <div class="subtitle-container">  <a class="subtitle" href="/store/apps/developer?id=mixi,+Inc." title="mixi, Inc.">mixi, Inc.</a>   <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="jp.co.mixi.monsterstrikeUS"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaJAoiEiAKGmpwLmNvLm1peGkubW9uc3RlcnN0cmlrZVVTEAEYAw==" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </div>  <div class="description">  Join now during the Head Start campaign and get a starter kit to speed up your progress! -<p>Slingshot monsters and watch as they bounce around like pinballs, destroying enemies in their wake. Play with up to three other friends in this co-op action RPG. Become a master and collect over 1,000 unique and powerful monsters â€” staking your claim as the best Striker around!<p>Monster Strike is completely free to download and play, though some in-game items can be bought. Get many of the strongest monsters by completing quests. You can disable payments by turning off in-app purchases through your device&#39;s settings.<p>FEATURES<br>- Play with up to three other friends for four player co-op madness<br>- Fling monsters and deal epic damage<br>- Bump into other monsters for major combos<br>- Turn the tide with unique strike shots<br>- Clear quests full of obstacles and enemies<br>- Collect and raise an ever-growing roster of monsters<br>- Unlock and set Titles to show your prowess<br>- Keep track of your play stats<p>SUPPORT<br>Having problems, Striker? Visit http://us.monster-strike.com/support/?from=web and send an inquiry to our support team.<p>SOCIAL MEDIA<br>Join in the conversation on Facebook at https://www.facebook.com/monsterstrike.us.<p>RECOMMENDED DEVICES<br>We recommend devices with Android 2.3.3 or later (with the exception of certain devices.) We cannot offer support or compensation related to use on non-recommended devices.</p></p></p></p></p></p> <span class="paragraph-end"></span> <a class="card-click-target" href="/store/apps/details?id=jp.co.mixi.monsterstrikeUS" aria-hidden="true" tabindex="-1"></a>  </div> </div>     <div class="reason-set">  <span class="stars-container"> <a href="/store/apps/details?id=jp.co.mixi.monsterstrikeUS" tabindex="-1"> <div class="reason-set-star-rating">  <div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 4.2 stars out of five stars "> <div class="current-rating" style="width: 83.92891883850098%;"></div> </div>  </div> </a> <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="jp.co.mixi.monsterstrikeUS"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaJAoiEiAKGmpwLmNvLm1peGkubW9uc3RlcnN0cmlrZVVTEAEYAw==" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </span> </div> </div>   </div>  <div class="card no-rationale square-cover apps small" data-docid="com.boombit.RunningCircles" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-classes="card no-rationale square-cover apps small"> <div class="card-content id-track-click id-track-impression" data-docid="com.boombit.RunningCircles" data-server-cookie="CAIaJAoiEiAKGmNvbS5ib29tYml0LlJ1bm5pbmdDaXJjbGVzEAEYAw==" data-uitype="500">  <a class="card-click-target" data-server-cookie="CAIaJAoiEiAKGmNvbS5ib29tYml0LlJ1bm5pbmdDaXJjbGVzEAEYAw==" data-uitype="500" href="/store/apps/details?id=com.boombit.RunningCircles" aria-hidden="true" tabindex="-1"></a> <div class="cover"> <div class="cover-image-container"> <div class="cover-outer-align"> <div class="cover-inner-align"> <img alt="Running Circles" class="cover-image" data-cover-large="https://lh3.googleusercontent.com/EWIDPZ9G6Oim1LDLlUNrcDYwA-xFxb9_T_v_zjd-ondnVQqtzrZuzVJ8H7Re63SCop4=w340" data-cover-small="https://lh3.googleusercontent.com/EWIDPZ9G6Oim1LDLlUNrcDYwA-xFxb9_T_v_zjd-ondnVQqtzrZuzVJ8H7Re63SCop4=w170" src="https://lh3.googleusercontent.com/EWIDPZ9G6Oim1LDLlUNrcDYwA-xFxb9_T_v_zjd-ondnVQqtzrZuzVJ8H7Re63SCop4=w170" aria-hidden="true"> </div> </div> </div> <a class="card-click-target" href="/store/apps/details?id=com.boombit.RunningCircles" aria-hidden="true" tabindex="-1">  <span class="movies preordered-overlay-container id-preordered-overlay-container" style="display:none"> <span class="preordered-label"> Pre-ordered </span> </span> <span class="preview-overlay-container" data-docid="com.boombit.RunningCircles">  </span>  </a>  </div> <div class="details"> <a class="card-click-target" href="/store/apps/details?id=com.boombit.RunningCircles" aria-hidden="true" tabindex="-1"></a>  <h2> <a class="title" href="/store/apps/details?id=com.boombit.RunningCircles" title="Running Circles">    Running Circles  <span class="paragraph-end"></span> </a> </h2>   <div class="subtitle-container">  <a class="subtitle" href="/store/apps/dev?id=5496592682158177981" title="BoomBit Games">BoomBit Games</a>   <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.boombit.RunningCircles"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaJAoiEiAKGmNvbS5ib29tYml0LlJ1bm5pbmdDaXJjbGVzEAEYAw==" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </div>  <div class="description">  Play Running Circles! This game will have you Spinning around Dazed &amp; Confused, hungry for one more go! This simple one touch Multiplayer Arcade game is totally Addictive and impossible to put down. How far can you go?<p>Your goal is to move from Circle to Circle taping the screen at just the right time. You can move both inside and outside the Circles but donâ€™t waste a secondâ€¦ Danger lurks all around you.<p>Great timing and lightning fast reflexes is all it takes to go as far as you can.<p>Collect gold gems to Unlock tons of cool Characters that will help you on your journey.<p>Do you think youâ€™re fast enough? <p>â˜…â˜…â˜… MULTIPLAYER â˜…â˜…â˜…<p>Play With Your Friends in endless Turn Base Multiplayer mode. Challenge them in direct online battles to see who has the fastest reaction time.<p>Running circles will keep you circling and spinning for more.<p>Features:<p>â˜… From the creators of Bird Climb &amp; Spider Square<br>â˜… Free To Play<br>â˜… Simple 1 Touch Controls<br>â˜… Online Multiplayer<br>â˜… Play With Friends<br>â˜… 2 Difficulty Modes â€“ Easy &amp; Normal<br>â˜… Beautiful Minimal Art Style<br>â˜… Leaderboards and Achievements<br>â˜… Cloud Save<br>â˜… Android TV Support (coming soon)<br>â˜… Game Pad Support (coming soon)</p></p></p></p></p></p></p></p></p> <span class="paragraph-end"></span> <a class="card-click-target" href="/store/apps/details?id=com.boombit.RunningCircles" aria-hidden="true" tabindex="-1"></a>  </div> </div>     <div class="reason-set">  <span class="stars-container"> <a href="/store/apps/details?id=com.boombit.RunningCircles" tabindex="-1"> <div class="reason-set-star-rating">  <div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 4.3 stars out of five stars "> <div class="current-rating" style="width: 85.05273818969727%;"></div> </div>  </div> </a> <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.boombit.RunningCircles"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaJAoiEiAKGmNvbS5ib29tYml0LlJ1bm5pbmdDaXJjbGVzEAEYAw==" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </span> </div> </div>   </div>  <div class="card no-rationale square-cover apps small" data-docid="com.gameloft.android.ANMP.GloftTHHM" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-classes="card no-rationale square-cover apps small"> <div class="card-content id-track-click id-track-impression" data-docid="com.gameloft.android.ANMP.GloftTHHM" data-server-cookie="CAIaLQorEikKI2NvbS5nYW1lbG9mdC5hbmRyb2lkLkFOTVAuR2xvZnRUSEhNEAEYAw==" data-uitype="500">  <a class="card-click-target" data-server-cookie="CAIaLQorEikKI2NvbS5nYW1lbG9mdC5hbmRyb2lkLkFOTVAuR2xvZnRUSEhNEAEYAw==" data-uitype="500" href="/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM" aria-hidden="true" tabindex="-1"></a> <div class="cover"> <div class="cover-image-container"> <div class="cover-outer-align"> <div class="cover-inner-align"> <img alt="Siegefall" class="cover-image" data-cover-large="https://lh3.googleusercontent.com/tlcwPZIMuPZopJm3i3ifBX0oUJ_wIbvlqKtyjHpCAaELs86fDWBtpb5TBDatgWFWD0Rf=w340" data-cover-small="https://lh3.googleusercontent.com/tlcwPZIMuPZopJm3i3ifBX0oUJ_wIbvlqKtyjHpCAaELs86fDWBtpb5TBDatgWFWD0Rf=w170" src="https://lh3.googleusercontent.com/tlcwPZIMuPZopJm3i3ifBX0oUJ_wIbvlqKtyjHpCAaELs86fDWBtpb5TBDatgWFWD0Rf=w170" aria-hidden="true"> </div> </div> </div> <a class="card-click-target" href="/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM" aria-hidden="true" tabindex="-1">  <span class="movies preordered-overlay-container id-preordered-overlay-container" style="display:none"> <span class="preordered-label"> Pre-ordered </span> </span> <span class="preview-overlay-container" data-docid="com.gameloft.android.ANMP.GloftTHHM">  </span>  </a>  </div> <div class="details"> <a class="card-click-target" href="/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM" aria-hidden="true" tabindex="-1"></a>  <h2> <a class="title" href="/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM" title="Siegefall">    Siegefall  <span class="paragraph-end"></span> </a> </h2>   <div class="subtitle-container">  <a class="subtitle" href="/store/apps/developer?id=Gameloft" title="Gameloft">Gameloft</a>   <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.gameloft.android.ANMP.GloftTHHM"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaLQorEikKI2NvbS5nYW1lbG9mdC5hbmRyb2lkLkFOTVAuR2xvZnRUSEhNEAEYAw==" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </div>  <div class="description">  Smash the castle gates and leave nothing but rubble behind in the game that makes you builder, strategist and destroyer, all in one!<p>Journey to an epic realm where great battles and wars are fought over kingdoms and crowns. Challenge millions of players in fast, tactical action as you take direct control of your battle forces to break through their castle defenses using raw might and your mastery of magic.  <p>BESIEGE YOUR ENEMIES<br>â—? Amass an army of specialized troops including sneaky rogues, horrifying trolls, and heavy-fisted knights.<br>â—? Deploy your army and take direct control of your Hero in battle to exploit enemy weaknesses.<br>â—? Master Magical Cards to enhance your strategy: Launch destructive boulders of fire, freeze enemies and conjure the fire of the Dragon! Dozens of different cards to win for free and enhance the action.<p>EXPAND YOUR KINGDOM WITH STRATEGY<br>â—? War is never free! Build mines, sawmills and farms within your castle to keep your kingdomâ€™s war effort running.<br>â—? Defend your kingdom with strategy! Build defense towers, explosives, traps, barricades and walls to ward off greedy invaders looking to lay siege to your castle.<br>â—? Build and upgrade your fort through 4 different medieval ages -- from wood and iron to gold for a diverse game experience!<br>â—? Battle with players worldwide and lay siege to their castle for resources in all-out action. And then keep your castle free from their revenge!<p>ITâ€™S ALL ABOUT PERSONALITY<br>â—? Epic Heroes: Unlock rival leaders and their abilities as you progress through the solo campaign and grow your kingdom. Always choose the right hero for the best strategy!<br>â—? Amazing graphics with stylized art that makes the action epic to watch, while making your hero, army and buildings easy to identify. <p>Enjoy regular game updates that&#39;ll keep the war fire flowing!<p>Perfect for fans of fun and free action games, strategy games, war games, castle-building games and fantasy games. Think you&#39;re the master of strategy and war? Get the game now for free!<br>_____________________________________________<p>Visit our official site at http://www.gameloft.com<br>Follow us on Twitter at http://glft.co/GameloftonTwitter or like us on Facebook at http://facebook.com/Gameloft to get more info about all our upcoming titles.<br>Check out our videos and game trailers on http://www.youtube.com/Gameloft<br>Discover our blog at http://glft.co/Gameloft_Official_Blog for the inside scoop on everything Gameloft.<p>Privacy Policy: http://www.gameloft.com/privacy-notice/<br>Terms of Use: http://www.gameloft.com/conditions/<br>End-User License Agreement: http://www.gameloft.com/eula/?lang=en<br>_____________________________________________<p>This app allows you to purchase virtual items within the app and may contain third-party advertisements that may redirect you to a third-party site.</p></p></p></p></p></p></p></p></p> <span class="paragraph-end"></span> <a class="card-click-target" href="/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM" aria-hidden="true" tabindex="-1"></a>  </div> </div>     <div class="reason-set">  <span class="stars-container"> <a href="/store/apps/details?id=com.gameloft.android.ANMP.GloftTHHM" tabindex="-1"> <div class="reason-set-star-rating">  <div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 4.2 stars out of five stars "> <div class="current-rating" style="width: 84.12862777709961%;"></div> </div>  </div> </a> <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.gameloft.android.ANMP.GloftTHHM"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaLQorEikKI2NvbS5nYW1lbG9mdC5hbmRyb2lkLkFOTVAuR2xvZnRUSEhNEAEYAw==" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </span> </div> </div>   </div>  <div class="card no-rationale square-cover apps small" data-docid="com.activision.gw3.dimensions" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-classes="card no-rationale square-cover apps small"> <div class="card-content id-track-click id-track-impression" data-docid="com.activision.gw3.dimensions" data-server-cookie="CAIaJwolEiMKHWNvbS5hY3RpdmlzaW9uLmd3My5kaW1lbnNpb25zEAEYAw==" data-uitype="500">  <a class="card-click-target" data-server-cookie="CAIaJwolEiMKHWNvbS5hY3RpdmlzaW9uLmd3My5kaW1lbnNpb25zEAEYAw==" data-uitype="500" href="/store/apps/details?id=com.activision.gw3.dimensions" aria-hidden="true" tabindex="-1"></a> <div class="cover"> <div class="cover-image-container"> <div class="cover-outer-align"> <div class="cover-inner-align"> <img alt="Geometry Wars 3: Dimensions" class="cover-image" data-cover-large="https://lh3.googleusercontent.com/MaMVDyIVpwpftphH59E_4lSPeZg8BwFkBku-NIAZgcS89aP8g2DnhZq4WLMPrAQV1HI=w340" data-cover-small="https://lh3.googleusercontent.com/MaMVDyIVpwpftphH59E_4lSPeZg8BwFkBku-NIAZgcS89aP8g2DnhZq4WLMPrAQV1HI=w170" src="https://lh3.googleusercontent.com/MaMVDyIVpwpftphH59E_4lSPeZg8BwFkBku-NIAZgcS89aP8g2DnhZq4WLMPrAQV1HI=w170" aria-hidden="true"> </div> </div> </div> <a class="card-click-target" href="/store/apps/details?id=com.activision.gw3.dimensions" aria-hidden="true" tabindex="-1">  <span class="movies preordered-overlay-container id-preordered-overlay-container" style="display:none"> <span class="preordered-label"> Pre-ordered </span> </span> <span class="preview-overlay-container" data-docid="com.activision.gw3.dimensions">  </span>  </a>  </div> <div class="details"> <a class="card-click-target" href="/store/apps/details?id=com.activision.gw3.dimensions" aria-hidden="true" tabindex="-1"></a>  <h2> <a class="title" href="/store/apps/details?id=com.activision.gw3.dimensions" title="Geometry Wars 3: Dimensions">    Geometry Wars 3: Dimensions  <span class="paragraph-end"></span> </a> </h2>   <div class="subtitle-container">  <a class="subtitle" href="/store/apps/developer?id=Activision+Publishing,+Inc." title="Activision Publishing, Inc.">Activision Publishing, Inc.</a>   <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.activision.gw3.dimensions"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaJwolEiMKHWNvbS5hY3RpdmlzaW9uLmd3My5kaW1lbnNpb25zEAEYAw==" data-uitype="200">     <span class="display-price">$4.99</span>   </button>    </span>     </span> </div>  <div class="description">  Enjoy the next chapter in the award-winning Geometry Wars franchise and enjoy stunning, console-quality graphics as you battle through waves of enemies in this frenetic arcade shooter!<br>	<br>	â€¢ 50 Adventure levels with a wide variety of 3D grid shapes, game modes, and boss battles<br>	â€¢ 5 Classic Arcade levels inspired by franchise heritage<br>	â€¢ Over 10 battle modes including Pacifism, King and Claustrophobia<br>	â€¢ 5 unique companion drones such as Attack, Collector, Ram and Snipe<br>	â€¢ 5 devastating super abilities including Homing, Black Hole and Turret<br>	â€¢ Compete with friends and other players on global leaderboards for every level in the gameÂ  <br>	â€¢ Dual and single-stick touch control configurations<br>	â€¢ Bluetooth controller support<p>All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision&#39;s privacy policy and terms of us, as may be updated by Activision from time to time. Please visit http://www.activision.com/privacy/en/privacy.html to view Activision&#39;s privacy policy and https://www.activision.com/legal/terms-of-use to view Activision&#39;s terms of use.</p> <span class="paragraph-end"></span> <a class="card-click-target" href="/store/apps/details?id=com.activision.gw3.dimensions" aria-hidden="true" tabindex="-1"></a>  </div> </div>     <div class="reason-set">  <span class="stars-container"> <a href="/store/apps/details?id=com.activision.gw3.dimensions" tabindex="-1"> <div class="reason-set-star-rating">  <div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 4.7 stars out of five stars "> <div class="current-rating" style="width: 93.22147369384766%;"></div> </div>  </div> </a> <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.activision.gw3.dimensions"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaJwolEiMKHWNvbS5hY3RpdmlzaW9uLmd3My5kaW1lbnNpb25zEAEYAw==" data-uitype="200">     <span class="display-price">$4.99</span>   </button>    </span>     </span> </span> </div> </div>   </div>  <div class="card no-rationale square-cover apps small" data-docid="com.ustwo.monumentvalley" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-classes="card no-rationale square-cover apps small"> <div class="card-content id-track-click id-track-impression" data-docid="com.ustwo.monumentvalley" data-server-cookie="CAIaIgogEh4KGGNvbS51c3R3by5tb251bWVudHZhbGxleRABGAM=" data-uitype="500">  <a class="card-click-target" data-server-cookie="CAIaIgogEh4KGGNvbS51c3R3by5tb251bWVudHZhbGxleRABGAM=" data-uitype="500" href="/store/apps/details?id=com.ustwo.monumentvalley" aria-hidden="true" tabindex="-1"></a> <div class="cover"> <div class="cover-image-container"> <div class="cover-outer-align"> <div class="cover-inner-align"> <img alt="Monument Valley" class="cover-image" data-cover-large="https://lh3.googleusercontent.com/eMga-jTfHJ934OOQWtz797Wixjat9R5MHzOCjr9nqFwjrkbBEpNkjFle5du2FGNnC-0=w340" data-cover-small="https://lh3.googleusercontent.com/eMga-jTfHJ934OOQWtz797Wixjat9R5MHzOCjr9nqFwjrkbBEpNkjFle5du2FGNnC-0=w170" src="https://lh3.googleusercontent.com/eMga-jTfHJ934OOQWtz797Wixjat9R5MHzOCjr9nqFwjrkbBEpNkjFle5du2FGNnC-0=w170" aria-hidden="true"> </div> </div> </div> <a class="card-click-target" href="/store/apps/details?id=com.ustwo.monumentvalley" aria-hidden="true" tabindex="-1">  <span class="movies preordered-overlay-container id-preordered-overlay-container" style="display:none"> <span class="preordered-label"> Pre-ordered </span> </span> <span class="preview-overlay-container" data-docid="com.ustwo.monumentvalley">  </span>  </a>  </div> <div class="details"> <a class="card-click-target" href="/store/apps/details?id=com.ustwo.monumentvalley" aria-hidden="true" tabindex="-1"></a>  <h2> <a class="title" href="/store/apps/details?id=com.ustwo.monumentvalley" title="Monument Valley">    Monument Valley  <span class="paragraph-end"></span> </a> </h2>   <div class="subtitle-container">  <a class="subtitle" href="/store/apps/developer?id=ustwo" title="ustwo">ustwo</a>   <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.ustwo.monumentvalley"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaIgogEh4KGGNvbS51c3R3by5tb251bWVudHZhbGxleRABGAM=" data-uitype="200">     <span class="display-price">$3.99</span>   </button>    </span>     </span> </div>  <div class="description">  In Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world.<p>Monument Valley is a surreal exploration through fantastical architecture and impossible geometry. Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People.<p>Ida&#39;s Dream now available.<p>Forgotten Shores: Eight new chapters of adventure and illusion available now as a separate purchase.<p>=======<p>&quot;One of the very finest hours, and the value of such a thing is incalculable&quot; - Kotaku<p>&quot;Brilliant design... stayed with me like a dream I didn&#39;t want to forget... 9/10&quot; - Polygon<p>&quot;Monument Valley stuns with its serenity... each screen is a work of art&quot; - Huffington Post<p>&quot;Almost impossibly gorgeous...  a feast for your senses... 5/5&quot; - Touch Arcade<p>â€œMonument Valley is the most elegant game I have ever playedâ€?  - Tim Schafer<p>=======<p>BEAUTIFUL<p>Inspired by minimalist 3D design, optical illusions and palaces and temples from around the world, every monument is a unique, hand-crafted world to explore.<p>EASY TO USE<p>Twist and drag to reshape the world and help Ida to explore.  Designed to be easy for everyone to pick up, enjoy and complete.<p>SOUND<p>Audio reacts to your manipulation of the world to provide a surreal and beautiful soundscape.  Best experienced with headphones.<p>CLOUD SAVE<p>Synchronize your game across all your devices.<p>TABLET SUPPORT<p>Monument Valley is optimised for both tablets and phones.</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p> <span class="paragraph-end"></span> <a class="card-click-target" href="/store/apps/details?id=com.ustwo.monumentvalley" aria-hidden="true" tabindex="-1"></a>  </div> </div>     <div class="reason-set">  <span class="stars-container"> <a href="/store/apps/details?id=com.ustwo.monumentvalley" tabindex="-1"> <div class="reason-set-star-rating">  <div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 4.7 stars out of five stars "> <div class="current-rating" style="width: 93.58138084411621%;"></div> </div>  </div> </a> <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.ustwo.monumentvalley"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaIgogEh4KGGNvbS51c3R3by5tb251bWVudHZhbGxleRABGAM=" data-uitype="200">     <span class="display-price">$3.99</span>   </button>    </span>     </span> </span> </div> </div>   </div>  <div class="card no-rationale square-cover apps small" data-docid="com.actoz.retimoadv" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-classes="card no-rationale square-cover apps small"> <div class="card-content id-track-click id-track-impression" data-docid="com.actoz.retimoadv" data-server-cookie="CAIaHQobEhkKE2NvbS5hY3Rvei5yZXRpbW9hZHYQARgD" data-uitype="500">  <a class="card-click-target" data-server-cookie="CAIaHQobEhkKE2NvbS5hY3Rvei5yZXRpbW9hZHYQARgD" data-uitype="500" href="/store/apps/details?id=com.actoz.retimoadv" aria-hidden="true" tabindex="-1"></a> <div class="cover"> <div class="cover-image-container"> <div class="cover-outer-align"> <div class="cover-inner-align"> <img alt="Retimo Adventure" class="cover-image" data-cover-large="https://lh3.googleusercontent.com/jTQzcR9ap_kWoaA6ecby7aaAdH-9k7-5RafXJOHHrCsCWMTtG_c8CanzrcsvqbWh2Cw=w340" data-cover-small="https://lh3.googleusercontent.com/jTQzcR9ap_kWoaA6ecby7aaAdH-9k7-5RafXJOHHrCsCWMTtG_c8CanzrcsvqbWh2Cw=w170" src="https://lh3.googleusercontent.com/jTQzcR9ap_kWoaA6ecby7aaAdH-9k7-5RafXJOHHrCsCWMTtG_c8CanzrcsvqbWh2Cw=w170" aria-hidden="true"> </div> </div> </div> <a class="card-click-target" href="/store/apps/details?id=com.actoz.retimoadv" aria-hidden="true" tabindex="-1">  <span class="movies preordered-overlay-container id-preordered-overlay-container" style="display:none"> <span class="preordered-label"> Pre-ordered </span> </span> <span class="preview-overlay-container" data-docid="com.actoz.retimoadv">  </span>  </a>  </div> <div class="details"> <a class="card-click-target" href="/store/apps/details?id=com.actoz.retimoadv" aria-hidden="true" tabindex="-1"></a>  <h2> <a class="title" href="/store/apps/details?id=com.actoz.retimoadv" title="Retimo Adventure">    Retimo Adventure  <span class="paragraph-end"></span> </a> </h2>   <div class="subtitle-container">  <a class="subtitle" href="/store/apps/developer?id=Actoz+Games" title="Actoz Games">Actoz Games</a>   <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.actoz.retimoadv"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaHQobEhkKE2NvbS5hY3Rvei5yZXRpbW9hZHYQARgD" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </div>  <div class="description">  Once you try Retimo Adventure, you&#39;ll never go back.<br>This cuteness explosion will change your standard of adorable. <br>There&#39;s no time to waste - play the cutest RPG ever right now!!<p><br>1. Get your hands on these adorable anime characters for a cuteness overload!!<br>- Fall in love with unique characters that come to life with vibrant animation.<p><br>2. The Rogue-like dungeon exploration system never gets boring!<br>- The game gets more and more exciting as you enter diverse new stages.<p><br>3. Use the skill transfer system to say, &quot;My hero&#39;s better than yours!&quot;<br>- Craft your own hero by transferring skills!<p><br>4. Develop new strategies with attributes! Every hero counts!!<br>- Defeat tough enemies by combining opposing attributes!<p><p>Contact Us: ozsupport@actoz.com</p></p></p></p></p></p> <span class="paragraph-end"></span> <a class="card-click-target" href="/store/apps/details?id=com.actoz.retimoadv" aria-hidden="true" tabindex="-1"></a>  </div> </div>     <div class="reason-set">  <span class="stars-container"> <a href="/store/apps/details?id=com.actoz.retimoadv" tabindex="-1"> <div class="reason-set-star-rating">  <div class="tiny-star star-rating-non-editable-container" aria-label=" Rated 4.2 stars out of five stars "> <div class="current-rating" style="width: 84.0532112121582%;"></div> </div>  </div> </a> <span class="price-container"> <span class="paragraph-end"></span>   <span class="apps is-price-tag buy-button-container" data-doc-fetch-skip-cache="0" data-doc-fetch-vouchers="0" data-docid="com.actoz.retimoadv"> <div class="pon" style="display:none">1</div> <button class="price buy id-track-click" data-server-cookie="CAIaHQobEhkKE2NvbS5hY3Rvei5yZXRpbW9hZHYQARgD" data-uitype="223">     <span class="display-price">Free</span>   </button>    </span>     </span> </span> </div> </div>   </div>  <div class="card no-rationale square-cover apps small" data-docid="com.nextgenreality.wrt" data-original-classes="card no-rationale square-cover apps small" data-short-classes="card no-rationale square-cover apps tiny" data-thin-cl
+ParseText::
+Google Play Search Images Maps Play YouTube News Gmail Drive More » Apps My apps Shop Games Family Parent Guide Editors' Choice Movies & TV My movies & TV Shop Movies TV Family Parent Guide Studios Networks Music My music Shop Books My books Shop Textbooks Children's Books Parent Guide Newsstand My newsstand Shop Devices Shop Store My Play activity My wishlist Redeem Buy gift card Buy Google Play credit My orders Settings Android Device Manager New + Updated Games See more Pre-ordered Racing Rivals Glu 1 Free LIVE OPPONENTS. REAL COMPETITION. True real-time racing at your fingertips. Racing Rivals lets you challenge or be challenged by live opponents in game lobbies with feature race replays and live chat. HIGH STAKES BETTING Back your bets with skill unless you're prepared to lose cash - or your car! The stakes are high and the risk is real. Can you handle it? WEEKLY EVENTS! Does your team have what it takes to dominate Turf Wars? Race in weekly competitions to control cities, earn gems, and bonuses for your team! Exclusive Prizes means cars no one else can buy, wrapped in livery no one else has seen. OFFICIALLY LICENSED CARS Racing Rivals presents a huge collection of licensed cars ranging from tunes and exotics to classic American muscle. Featured brands include McLaren, Subaru, Dodge, Mitsubishi, Ford, RWB, Scion, BMW, Acura and SRT with more on the way! TUNE, UPGRADE & CUSTOMIZE? Find the optimal tune for your car with hundreds performance parts in thousands of combinations - everything from air filters to crankshafts will impact your car's performance. Up your game by adding NOS, a supercharger or turbo, custom rims from the biggest players like Volk Racing, Pacer, and SSR, plus real world tires from Nitto! High-end, immersive tablet gameplay! IMPORTANT: Racing Rivals requires an internet connection to play, Android 2.3.3 or higher and 512MB of ram (Android 4.x, 1 GB of ram recommended) Find us on Facebook: http://bit.ly/RacingRivalsFans? Find us on Twitter: http://bit.ly/RacingRivalsTweets Questions or Suggestions? Visit our forums: http://bit.ly/RacingRivalsForums Terms of Service: http://www.glu.com/terms Privacy Policy: http://www.glu.com/privacy 1 Free Pre-ordered Monster Strike mixi, Inc. 1 Free Join now during the Head Start campaign and get a starter kit to speed up your progress! - Slingshot monsters and watch as they bounce around like pinballs, destroying enemies in their wake. Play with up to three other friends in this co-op action RPG. Become a master and collect over 1,000 unique and powerful monsters — staking your claim as the best Striker around! Monster Strike is completely free to download and play, though some in-game items can be bought. Get many of the strongest monsters by completing quests. You can disable payments by turning off in-app purchases through your device's settings. FEATURES - Play with up to three other friends for four player co-op madness - Fling monsters and deal epic damage - Bump into other monsters for major combos - Turn the tide with unique strike shots - Clear quests full of obstacles and enemies - Collect and raise an ever-growing roster of monsters - Unlock and set Titles to show your prowess - Keep track of your play stats SUPPORT Having problems, Striker? Visit http://us.monster-strike.com/support/?from=web and send an inquiry to our support team. SOCIAL MEDIA Join in the conversation on Facebook at https://www.facebook.com/monsterstrike.us. RECOMMENDED DEVICES We recommend devices with Android 2.3.3 or later (with the exception of certain devices.) We cannot offer support or compensation related to use on non-recommended devices. 1 Free Pre-ordered Running Circles BoomBit Games 1 Free Play Running Circles! This game will have you Spinning around Dazed & Confused, hungry for one more go! This simple one touch Multiplayer Arcade game is totally Addictive and impossible to put down. How far can you go? Your goal is to move from Circle to Circle taping the screen at just the right time. You can move both inside and outside the Circles but don’t waste a second… Danger lurks all around you. Great timing and lightning fast reflexes is all it takes to go as far as you can. Collect gold gems to Unlock tons of cool Characters that will help you on your journey. Do you think you’re fast enough? ??? MULTIPLAYER ??? Play With Your Friends in endless Turn Base Multiplayer mode. Challenge them in direct online battles to see who has the fastest reaction time. Running circles will keep you circling and spinning for more. Features: ? From the creators of Bird Climb & Spider Square ? Free To Play ? Simple 1 Touch Controls ? Online Multiplayer ? Play With Friends ? 2 Difficulty Modes – Easy & Normal ? Beautiful Minimal Art Style ? Leaderboards and Achievements ? Cloud Save ? Android TV Support (coming soon) ? Game Pad Support (coming soon) 1 Free Pre-ordered Siegefall Gameloft 1 Free Smash the castle gates and leave nothing but rubble behind in the game that makes you builder, strategist and destroyer, all in one! Journey to an epic realm where great battles and wars are fought over kingdoms and crowns. Challenge millions of players in fast, tactical action as you take direct control of your battle forces to break through their castle defenses using raw might and your mastery of magic. BESIEGE YOUR ENEMIES ? Amass an army of specialized troops including sneaky rogues, horrifying trolls, and heavy-fisted knights. ? Deploy your army and take direct control of your Hero in battle to exploit enemy weaknesses. ? Master Magical Cards to enhance your strategy: Launch destructive boulders of fire, freeze enemies and conjure the fire of the Dragon! Dozens of different cards to win for free and enhance the action. EXPAND YOUR KINGDOM WITH STRATEGY ? War is never free! Build mines, sawmills and farms within your castle to keep your kingdom’s war effort running. ? Defend your kingdom with strategy! Build defense towers, explosives, traps, barricades and walls to ward off greedy invaders looking to lay siege to your castle. ? Build and upgrade your fort through 4 different medieval ages -- from wood and iron to gold for a diverse game experience! ? Battle with players worldwide and lay siege to their castle for resources in all-out action. And then keep your castle free from their revenge! IT’S ALL ABOUT PERSONALITY ? Epic Heroes: Unlock rival leaders and their abilities as you progress through the solo campaign and grow your kingdom. Always choose the right hero for the best strategy! ? Amazing graphics with stylized art that makes the action epic to watch, while making your hero, army and buildings easy to identify. Enjoy regular game updates that'll keep the war fire flowing! Perfect for fans of fun and free action games, strategy games, war games, castle-building games and fantasy games. Think you're the master of strategy and war? Get the game now for free! _____________________________________________ Visit our official site at http://www.gameloft.com Follow us on Twitter at http://glft.co/GameloftonTwitter or like us on Facebook at http://facebook.com/Gameloft to get more info about all our upcoming titles. Check out our videos and game trailers on http://www.youtube.com/Gameloft Discover our blog at http://glft.co/Gameloft_Official_Blog for the inside scoop on everything Gameloft. Privacy Policy: http://www.gameloft.com/privacy-notice/ Terms of Use: http://www.gameloft.com/conditions/ End-User License Agreement: http://www.gameloft.com/eula/?lang=en _____________________________________________ This app allows you to purchase virtual items within the app and may contain third-party advertisements that may redirect you to a third-party site. 1 Free Pre-ordered Geometry Wars 3: Dimensions Activision Publishing, Inc. 1 $4.99 Enjoy the next chapter in the award-winning Geometry Wars franchise and enjoy stunning, console-quality graphics as you battle through waves of enemies in this frenetic arcade shooter! • 50 Adventure levels with a wide variety of 3D grid shapes, game modes, and boss battles • 5 Classic Arcade levels inspired by franchise heritage • Over 10 battle modes including Pacifism, King and Claustrophobia • 5 unique companion drones such as Attack, Collector, Ram and Snipe • 5 devastating super abilities including Homing, Black Hole and Turret • Compete with friends and other players on global leaderboards for every level in the game  • Dual and single-stick touch control configurations • Bluetooth controller support All other trademarks and trade names are the properties of their respective owners. By downloading, installing or using this App, you agree to Activision's privacy policy and terms of us, as may be updated by Activision from time to time. Please visit http://www.activision.com/privacy/en/privacy.html to view Activision's privacy policy and https://www.activision.com/legal/terms-of-use to view Activision's terms of use. 1 $4.99 Pre-ordered Monument Valley ustwo 1 $3.99 In Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world. Monument Valley is a surreal exploration through fantastical architecture and impossible geometry. Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People. Ida's Dream now available. Forgotten Shores: Eight new chapters of adventure and illusion available now as a separate purchase. ======= "One of the very finest hours, and the value of such a thing is incalculable" - Kotaku "Brilliant design... stayed with me like a dream I didn't want to forget... 9/10" - Polygon "Monument Valley stuns with its serenity... each screen is a work of art" - Huffington Post "Almost impossibly gorgeous... a feast for your senses... 5/5" - Touch Arcade “Monument Valley is the most elegant game I have ever played” - Tim Schafer ======= BEAUTIFUL Inspired by minimalist 3D design, optical illusions and palaces and temples from around the world, every monument is a unique, hand-crafted world to explore. EASY TO USE Twist and drag to reshape the world and help Ida to explore. Designed to be easy for everyone to pick up, enjoy and complete. SOUND Audio reacts to your manipulation of the world to provide a surreal and beautiful soundscape. Best experienced with headphones. CLOUD SAVE Synchronize your game across all your devices. TABLET SUPPORT Monument Valley is optimised for both tablets and phones. 1 $3.99 Pre-ordered Retimo Adventure Actoz Games 1 Free Once you try Retimo Adventure, you'll never go back. This cuteness explosion will change your standard of adorable. There's no time to waste - play the cutest RPG ever right now!! 1. Get your hands on these adorable anime characters for a cuteness overload!! - Fall in love with unique characters that come to life with vibrant animation. 2. The Rogue-like dungeon exploration system never gets boring! - The game gets more and more exciting as you enter diverse new stages. 3. Use the skill transfer system to say, "My hero's better than yours!" - Craft your own hero by transferring skills! 4. Develop new strategies with attributes! Every hero counts!! - Defeat tough enemies by combining opposing attributes! Contact Us: ozsupport@actoz.com 1 Free
+ParseData::
+Version: 5
+Status: success(1,0)
+Title: Google Play
+Outlinks: 34
+  outlink: toUrl: http://www.google.com/intl/en/options/ anchor: More »
+  outlink: toUrl: https://play.google.com/store/apps anchor: Apps
+  outlink: toUrl: https://play.google.com/apps anchor: My apps
+  outlink: toUrl: https://play.google.com/store/apps anchor: Shop
+  outlink: toUrl: https://play.google.com/store/apps/category/GAME anchor: Games
+  outlink: toUrl: https://play.google.com/store/apps/category/FAMILY anchor: Family
+  outlink: toUrl: https://play.google.com/store/apps/collection/editors_choice anchor: Editors' Choice
+  outlink: toUrl: https://play.google.com/store/movies anchor: Movies & TV
+  outlink: toUrl: https://play.google.com/movies anchor: My movies & TV
+  outlink: toUrl: https://play.google.com/store/movies anchor: Shop
+  outlink: toUrl: https://play.google.com/store/movies/category/MOVIE anchor: Movies
+  outlink: toUrl: https://play.google.com/store/movies/category/TV anchor: TV
+  outlink: toUrl: https://play.google.com/store/movies/category/FAMILY anchor: Family
+  outlink: toUrl: https://play.google.com/store/movies/collection/promotion_collections_movie_studios anchor: Studios
+  outlink: toUrl: https://play.google.com/store/movies/collection/promotion_collections_tv_networks anchor: Networks
+  outlink: toUrl: https://play.google.com/store/music anchor: Music
+  outlink: toUrl: https://play.google.com/store/music anchor: Shop
+  outlink: toUrl: https://play.google.com/store/books anchor: Books
+  outlink: toUrl: https://play.google.com/books anchor: My books
+  outlink: toUrl: https://play.google.com/store/books anchor: Shop
+  outlink: toUrl: https://play.google.com/store/books/collection/promotion_1000568_txb_product anchor: Textbooks
+  outlink: toUrl: https://play.google.com/store/books/category/coll_1689 anchor: Children's Books
+  outlink: toUrl: https://play.google.com/store/newsstand anchor: Newsstand
+  outlink: toUrl: https://play.google.com/newsstand anchor: My newsstand
+  outlink: toUrl: https://play.google.com/store/newsstand anchor: Shop
+  outlink: toUrl: https://play.google.com/store/devices anchor: Devices
+  outlink: toUrl: https://play.google.com/store/devices anchor: Shop
+  outlink: toUrl: https://play.google.com/store/myplayactivity anchor: My Play activity
+  outlink: toUrl: https://play.google.com/wishlist anchor: My wishlist
+  outlink: toUrl: https://play.google.com/intl/en-US_us/about/giftcards anchor: Buy gift card
+  outlink: toUrl: https://play.google.com/store/account anchor: My orders
+  outlink: toUrl: https://play.google.com/settings anchor: Settings
+  outlink: toUrl: https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games anchor: New + Updated Games
+  outlink: toUrl: https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games anchor: See more
+Content Metadata: Server=GSE X-Content-Type-Options=nosniff nutch.content.digest=ef8033d310aec399e3444a7aa99de12e Pragma=no-cache P3P=CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info." Date=Mon, 29 Jun 2015 00:15:52 GMT nutch.crawl.score=1.0 Alternate-Protocol=443:quic,p=1 X-Frame-Options=SAMEORIGIN Accept-Ranges=none nutch.segment.name=20150628201546 Cache-Control=no-cache, no-store, max-age=0, must-revalidate Set-Cookie=NID=68=N4irmpZUZeKtlTBXDCySI4Atyu1DLjuRHFEODtycipNEKYGIyOF4eQO42R4WnLIcC4AzqdWGL2TIpGJ8YQgETh8NRyyMdcTwK6kTSD17MUU5zI5KgT6ZQ_b-pCdUDjmf;Domain=.google.com;Path=/;Expires=Tue, 29-Dec-2015 00:15:52 GMT;HttpOnly Vary=Accept-Encoding Expires=Fri, 01 Jan 1990 00:00:00 GMT X-XSS-Protection=1; mode=block _fst_=33 Content-Type=text/html; charset=utf-8 
+Parse Metadata: CharEncodingForConversion=utf-8 OriginalCharEncoding=utf-8 
+
+CrawlDatum::
+Version: 7
+Status: 1 (db_unfetched)
+Fetch time: Sun Jun 28 19:49:12 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 1.0
+Signature: null
+Metadata: 
+ 	_ngt_=1435536943962
+
+
+Recno:: 8
+URL:: https://play.google.com/store/account
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 9
+URL:: https://play.google.com/store/apps
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 10
+URL:: https://play.google.com/store/apps/category/FAMILY
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 11
+URL:: https://play.google.com/store/apps/category/GAME
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 12
+URL:: https://play.google.com/store/apps/collection/editors_choice
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 13
+URL:: https://play.google.com/store/apps/collection/promotion_3000791_new_releases_games
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 14
+URL:: https://play.google.com/store/books
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 15
+URL:: https://play.google.com/store/books/category/coll_1689
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 16
+URL:: https://play.google.com/store/books/collection/promotion_1000568_txb_product
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 17
+URL:: https://play.google.com/store/devices
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 18
+URL:: https://play.google.com/store/movies
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 19
+URL:: https://play.google.com/store/movies/category/FAMILY
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 20
+URL:: https://play.google.com/store/movies/category/MOVIE
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 21
+URL:: https://play.google.com/store/movies/category/TV
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 22
+URL:: https://play.google.com/store/movies/collection/promotion_collections_movie_studios
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 23
+URL:: https://play.google.com/store/movies/collection/promotion_collections_tv_networks
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 24
+URL:: https://play.google.com/store/music
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 25
+URL:: https://play.google.com/store/myplayactivity
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 26
+URL:: https://play.google.com/store/newsstand
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
+
+Recno:: 27
+URL:: https://play.google.com/wishlist
+
+CrawlDatum::
+Version: 7
+Status: 67 (linked)
+Fetch time: Sun Jun 28 20:15:59 EDT 2015
+Modified time: Wed Dec 31 19:00:00 EST 1969
+Retries since fetch: 0
+Retry interval: 2592000 seconds (30 days)
+Score: 0.029411765
+Signature: null
+Metadata: 
+ 
